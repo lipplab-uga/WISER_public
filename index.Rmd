@@ -1,16 +1,25 @@
 ---
-title: "index"
-author: "Billy Norfolk"
-date: "7/23/2021"
+title: "WISER Public"
+author: "Department of Evironmental Health Science, University of Georgia"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
-  html_document:
-    theme: sandstone
-    highlight: tango
+  epuRate::epurate:
+    toc: TRUE
+    number_sections: FALSE
+    code_folding: "show"
 ---
 
-## Coming Soon!
+# Updates Coming Soon! {#Announcements}
 
-Test text.
+## Section 1
+Test text. Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.
+Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.
+Test text.Test text.Test text.Test text.Test text.
+Test text.Test text.Test text.Test text.
+
+Test text.Test text.Test text.Test text.
+
+***
 
 | Tables        | Test           | Text  |
 | ------------- |:-------------:| -----:|
@@ -18,7 +27,11 @@ Test text.
 | samp2       | value 2 | y |
 | samp3       | value 3 | z |
 
+***
 
+## Section 2
+
+# 
 ### {.tabset}
 
 #### tab 1
