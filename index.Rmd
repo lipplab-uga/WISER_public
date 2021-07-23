@@ -2,7 +2,10 @@
 title: "index"
 author: "Billy Norfolk"
 date: "7/23/2021"
-output: html_document
+output:
+  html_document:
+    theme: sandstone
+    highlight: tango
 ---
 
 ## Coming Soon!
