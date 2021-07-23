@@ -7,8 +7,19 @@ output: html_document
 
 ## Coming Soon!
 
-Test
+Test text.
 
-**More test**
+| Tables        | Test           | Text  |
+| ------------- |:-------------:| -----:|
+| samp 1      | value 1 | x |
+| samp2       | value 2 | y |
+| samp3       | value 3 | z |
 
-_test_ 
+
+### {.tabset}
+
+#### tab 1
+test
+
+#### tab 2
+_test_
