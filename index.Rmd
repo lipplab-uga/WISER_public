@@ -29,12 +29,10 @@ Test text.Test text.Test text.Test text.
 
 ***
 
-## Section 2
+## Section 2 {.tabset}
 
-### {.tabset}
-
-#### tab 1
+### tab 1
 test
 
-#### tab 2
+### tab 2
 _test_
