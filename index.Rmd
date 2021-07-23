@@ -31,7 +31,6 @@ Test text.Test text.Test text.Test text.
 
 ## Section 2
 
-# 
 ### {.tabset}
 
 #### tab 1
