@@ -11,13 +11,37 @@ output:
 
 # Updates Coming Soon! {#Announcements}
 
-## Section 1
-Test text. Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.
-Test text.Test text.Test text.Test text.Test text.Test text.Test text.Test text.
-Test text.Test text.Test text.Test text.Test text.
-Test text.Test text.Test text.Test text.
+## What is WISER
+[placeholder]   
 
-Test text.Test text.Test text.Test text.
+## Participating Labs {.tabset}
+### Bahl Lab
+The Bahl Lab
+
+### Glenn Lab
+The Glenn Lab
+
+### Lipp Lab
+The Lipp Lab
+
+### Sanchez Lab
+The Sanchez Lab
+
+## Project Objectives
+[placeholder]    
+
+## Key Findings to Date
+[placeholder]   
+
+
+
+
+## Section 2 {.tabset}
+
+Formatting examples below
+
+
+
 
 ***
 
@@ -29,7 +53,7 @@ Test text.Test text.Test text.Test text.
 
 ***
 
-## Section 2 {.tabset}
+
 
 ### tab 1
 test
