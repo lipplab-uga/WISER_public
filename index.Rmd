@@ -12,11 +12,11 @@ output:
 # Updates Coming Soon! {#Announcements}
 
 ## What is WISER
-[placeholder]   
+ <font size="4">Wastewater Informatics for SARS-CoV-2 Epidemiology Research or WISER, is an ongoing collaborative research project at the University of Georgia conducted through College of Public Health and College of Veterinary Medicine. This project is designed to optimize the use of wastewater-based epidemiology (WBE) methods for the monitoring and sequencing of SARS-CoV-2 RNA at the community level. WBE is a technique which utilizes municipal wastewater sampling to elucidate the burden of a disease of interest in the population. Using these methods, wastewater samples can be taken to represent the "sewershed" (a municipal area of interest), and the trends of SARS-CoV-2 transmission within the community can be estimated. Furthermore, analysis of viral genomes from these massively pooled sewage samples,  can help discover the emergence and spread of distinct SARS-CoV-2 variants, identify known variants of concern, and  track potential novel variants that may be subject to vaccine escape at the community level. While methods are still being developed, WBE stands as a robust supplement to traditional clinical testing due to that fact that community sampling is unbiased towards testing data.</font>
 
 ## Participating Labs {.tabset}
 ### Bahl Lab
-The Bahl Lab
+Under the Direction of Dr. Justin Bahl, the Bahl Lab specializes 
 
 ### Glenn Lab
 The Glenn Lab
