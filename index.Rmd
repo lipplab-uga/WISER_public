@@ -16,24 +16,22 @@ output:
 
 ## Participating Labs {.tabset}
 ### Bahl Lab
-Under the Direction of Dr. Justin Bahl, the Bahl Lab specializes 
+ <font size="3">Under the Direction of Dr. Justin Bahl, the Bahl Lab specializes in molecular epidemiology of viral systems.Using the data collected some wastewater sequencing, Dr. Bahl and his students aim to characterize the movement and transmission of SARS-CoV-2 variants. From this, spatial transmission models will be developed to study the molecular evolution and mechanisms of viral spread within the study community.</font> 
 
 ### Glenn Lab
-The Glenn Lab
+ <font size="3">Under the direction of Dr. Travis Glenn, the Glenn lab specializes in genomic sequencing and bioinformatics. Using their established methods, Dr. Glenn and his students aim to develop and optimize methods to sequence and identify SARS-CoV-2 variants from collected wastewater.</font>
 
 ### Lipp Lab
-The Lipp Lab
+ <font size="3">Under the direction of Dr. Erin Lipp, the Lipp lab specializes in aquatic environmental microbiology. Since June 2020, Dr. Lipp and her students have been working to develop a pipeline for the collection, identification, and quantification of SARS-CoV-2 in municipal wastewater. Using their established methods, the Lipp lab aims to continue this collection process while developing a standardized sample concentration method to improve genomic sequencing outcomes from wastewater sampling.</font>
 
 ### Sanchez Lab
-The Sanchez Lab
+ <font size="3">Under the direction of Dr. Susan Sanchez, the Sanchez lab specializes the diagnostic testing and clinical identification of various infectious disease. Since spring 2020, the Sanchez lab has served as an integral part UGA's response to the pandemic by providing students and staff with survillence testing services on campus. Through this work, the Sanchez lab has accumulated a library of clinical SARS-CoV-2 samples from various time points throughout the pandemic and aims to serve as the clinical arm of the WISER project to complement wastewater sampling.</font>
 
 ## Project Objectives
-[placeholder]    
+_Coming Soon_   
 
 ## Key Findings to Date
-[placeholder]   
-
-
+_Coming Soon_  
 
 
 ## Section 2 {.tabset}
